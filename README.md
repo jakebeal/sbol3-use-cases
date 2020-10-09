@@ -2,7 +2,7 @@
 
 This repository collects descriptions, examples, and code showing how SBOL 3 can be applied to various use cases.
 
-The goal of this repository is to be a "one stop shop" where people can come
+The goal of this repository is to be a "one stop shop" where people can come to find good recommendations on how to use SBOL for a variety of common challenges in biology.
 
 ## Using the collection
 
